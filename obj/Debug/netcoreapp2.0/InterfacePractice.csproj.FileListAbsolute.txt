@@ -1,0 +1,11 @@
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.csprojResolveAssemblyReference.cache
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.AssemblyInfo.cs
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.deps.json
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.runtimeconfig.json
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.runtimeconfig.dev.json
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.dll
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.pdb
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.dll
+C:\Users\ATravers\source\repos\InterfacePractice\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.pdb
